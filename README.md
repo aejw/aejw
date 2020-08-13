@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡ DevOps Engineer in Manchester, England
 
 <!--
 **aejw/aejw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
